@@ -1,0 +1,27 @@
+* {
+	margin: 10px;
+}
+
+#el1, #el2, #el3{
+	background-color: #fff;
+	border: 6px solid blue;
+	width:200px;
+	height:100px;
+	padding: 20px;
+	font: 18px Arial;
+}
+li {
+	border: 1px solid blue;
+	width:100px;
+	height:50px;
+	padding: 5px;
+	font: 15px Arial;
+	list-style-type: none;
+}
+#drop1, #drop2{
+	border: 3px solid orange;
+	width:200px;
+	height:100px;
+	padding: 20px;
+	font: 18px Arial;
+}

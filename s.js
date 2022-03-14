@@ -1,3 +1,3 @@
-$(document).ready(function(){
-	$("#accordion1").accordion();
-});
+$(documnt).ready(function(){
+	$(#auto).autocomplete({source: ["Австралия","Австрия","Азербайджан"]})
+})
